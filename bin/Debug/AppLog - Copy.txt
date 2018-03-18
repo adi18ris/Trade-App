@@ -1,0 +1,1185 @@
+**********************************App Start*************************** Date: Monday, February 13, 2017
+**********************************App Start*************************** Date: Monday, February 13, 2017
+Initiating Daily Stock Data Download.. 
+**********************************App Start*************************** Date: Monday, February 13, 2017
+Starting Data Download for script: 20 Microns Limited(20MICRONS)
+Data Download for script: 20 Microns Limited(20MICRONS) Completed.
+Starting Data Download for script: 3i Infotech Limited(3IINFOTECH)
+Data Download for script: 3i Infotech Limited(3IINFOTECH) Completed.
+Starting Data Download for script: 3M India Limited(3MINDIA)
+Data Download for script: 3M India Limited(3MINDIA) Completed.
+Starting Data Download for script: 63 moons technologies limited(63MOONS)
+Data Download for script: 63 moons technologies limited(63MOONS) Completed.
+Starting Data Download for script: 8K Miles Software Services Limited(8KMILES)
+Data Download for script: 8K Miles Software Services Limited(8KMILES) Completed.
+Starting Data Download for script: A2Z INFRA ENGINEERING LIMITED(A2ZINFRA)
+Data Download for script: A2Z INFRA ENGINEERING LIMITED(A2ZINFRA) Completed.
+Starting Data Download for script: Aarti Drugs Limited(AARTIDRUGS)
+Data Download for script: Aarti Drugs Limited(AARTIDRUGS) Completed.
+Starting Data Download for script: Aarti Industries Limited(AARTIIND)
+Data Download for script: Aarti Industries Limited(AARTIIND) Completed.
+Starting Data Download for script: Aarvee Denims & Exports Limited(AARVEEDEN)
+Data Download for script: Aarvee Denims & Exports Limited(AARVEEDEN) Completed.
+Starting Data Download for script: Aban Offshore Limited(ABAN)
+Data Download for script: Aban Offshore Limited(ABAN) Completed.
+Starting Data Download for script: ABB India Limited(ABB)
+Data Download for script: ABB India Limited(ABB) Completed.
+Starting Data Download for script: Abbott India Limited(ABBOTINDIA)
+Data Download for script: Abbott India Limited(ABBOTINDIA) Completed.
+Starting Data Download for script: Aditya Birla Fashion and Retail Limited(ABFRL)
+Data Download for script: Aditya Birla Fashion and Retail Limited(ABFRL) Completed.
+Starting Data Download for script: ABG Shipyard Limited(ABGSHIP)
+Data Download for script: ABG Shipyard Limited(ABGSHIP) Completed.
+Starting Data Download for script: Aditya Birla Nuvo Limited(ABIRLANUVO)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Aditya Birla Nuvo Limited(ABIRLANUVO) Completed.
+Starting Data Download for script: ACC Limited(ACC)
+Data Download for script: ACC Limited(ACC) Completed.
+Starting Data Download for script: Accelya Kale Solutions Limited(ACCELYA)
+Data Download for script: Accelya Kale Solutions Limited(ACCELYA) Completed.
+Starting Data Download for script: Action Construction Equipment Limited(ACE)
+Data Download for script: Action Construction Equipment Limited(ACE) Completed.
+Starting Data Download for script: Adani Enterprises Limited(ADANIENT)
+Data Download for script: Adani Enterprises Limited(ADANIENT) Completed.
+Starting Data Download for script: Adani Ports and Special Economic Zone Limited(ADANIPORTS)
+Data Download for script: Adani Ports and Special Economic Zone Limited(ADANIPORTS) Completed.
+Starting Data Download for script: Adani Power Limited(ADANIPOWER)
+Data Download for script: Adani Power Limited(ADANIPOWER) Completed.
+Starting Data Download for script: Adani Transmission Limited(ADANITRANS)
+Data Download for script: Adani Transmission Limited(ADANITRANS) Completed.
+Starting Data Download for script: ADF Foods Limited(ADFFOODS)
+Data Download for script: ADF Foods Limited(ADFFOODS) Completed.
+Starting Data Download for script: Adhunik Metaliks Limited(ADHUNIK)
+Data Download for script: Adhunik Metaliks Limited(ADHUNIK) Completed.
+Starting Data Download for script: Adhunik Industries Limited(ADHUNIKIND)
+Data Download for script: Adhunik Industries Limited(ADHUNIKIND) Completed.
+Starting Data Download for script: Adlabs Entertainment Limited(ADLABS)
+Data Download for script: Adlabs Entertainment Limited(ADLABS) Completed.
+Starting Data Download for script: Ador Welding Limited(ADORWELD)
+Data Download for script: Ador Welding Limited(ADORWELD) Completed.
+Starting Data Download for script: Allied Digital Services Limited(ADSL)
+Data Download for script: Allied Digital Services Limited(ADSL) Completed.
+Starting Data Download for script: Advani Hotels & Resorts (India) Limited(ADVANIHOTR)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Advani Hotels & Resorts (India) Limited(ADVANIHOTR) Completed.
+Starting Data Download for script: Advanced Enzyme Technologies Limited(ADVENZYMES)
+Data Download for script: Advanced Enzyme Technologies Limited(ADVENZYMES) Completed.
+Starting Data Download for script: Aegis Logistics Limited(AEGISCHEM)
+Data Download for script: Aegis Logistics Limited(AEGISCHEM) Completed.
+Starting Data Download for script: Accel Frontline Limited(AFL)
+Data Download for script: Accel Frontline Limited(AFL) Completed.
+Starting Data Download for script: Agarwal Industrial Corporation Limited(AGARIND)
+Data Download for script: Agarwal Industrial Corporation Limited(AGARIND) Completed.
+Starting Data Download for script: AGC Networks Limited(AGCNET)
+Data Download for script: AGC Networks Limited(AGCNET) Completed.
+Starting Data Download for script: Agri-Tech (India) Limited(AGRITECH)
+Data Download for script: Agri-Tech (India) Limited(AGRITECH) Completed.
+Starting Data Download for script: Asian Hotels (East) Limited(AHLEAST)
+Data Download for script: Asian Hotels (East) Limited(AHLEAST) Completed.
+Starting Data Download for script: Ahluwalia Contracts (India) Limited(AHLUCONT)
+Data Download for script: Ahluwalia Contracts (India) Limited(AHLUCONT) Completed.
+Starting Data Download for script: Asian Hotels (West) Limited(AHLWEST)
+Data Download for script: Asian Hotels (West) Limited(AHLWEST) Completed.
+Starting Data Download for script: AIA Engineering Limited(AIAENG)
+Data Download for script: AIA Engineering Limited(AIAENG) Completed.
+Starting Data Download for script: AI Champdany Industries Limited(AICHAMP)
+Data Download for script: AI Champdany Industries Limited(AICHAMP) Completed.
+Starting Data Download for script: Ashapura Intimates Fashion Limited(AIFL)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Ashapura Intimates Fashion Limited(AIFL) Completed.
+Starting Data Download for script: Ajanta Pharma Limited(AJANTPHARM)
+Data Download for script: Ajanta Pharma Limited(AJANTPHARM) Completed.
+Starting Data Download for script: Ajmera Realty & Infra India Limited(AJMERA)
+Data Download for script: Ajmera Realty & Infra India Limited(AJMERA) Completed.
+Starting Data Download for script: Aksh Optifibre Limited(AKSHOPTFBR)
+Data Download for script: Aksh Optifibre Limited(AKSHOPTFBR) Completed.
+Starting Data Download for script: Akzo Nobel India Limited(AKZOINDIA)
+Data Download for script: Akzo Nobel India Limited(AKZOINDIA) Completed.
+Starting Data Download for script: Alankit Limited(ALANKIT)
+Data Download for script: Alankit Limited(ALANKIT) Completed.
+Starting Data Download for script: Albert David Limited(ALBERTDAVD)
+Data Download for script: Albert David Limited(ALBERTDAVD) Completed.
+Starting Data Download for script: Allahabad Bank(ALBK)
+Data Download for script: Allahabad Bank(ALBK) Completed.
+Starting Data Download for script: Alchemist Limited(ALCHEM)
+Data Download for script: Alchemist Limited(ALCHEM) Completed.
+Starting Data Download for script: Alembic Limited(ALEMBICLTD)
+Data Download for script: Alembic Limited(ALEMBICLTD) Completed.
+Starting Data Download for script: Alicon Castalloy Limited(ALICON)
+Data Download for script: Alicon Castalloy Limited(ALICON) Completed.
+Starting Data Download for script: Alkali Metals Limited(ALKALI)
+Data Download for script: Alkali Metals Limited(ALKALI) Completed.
+Starting Data Download for script: Alkem Laboratories Limited(ALKEM)
+Data Download for script: Alkem Laboratories Limited(ALKEM) Completed.
+Starting Data Download for script: Alkyl Amines Chemicals Limited(ALKYLAMINE)
+Data Download for script: Alkyl Amines Chemicals Limited(ALKYLAMINE) Completed.
+Starting Data Download for script: Allcargo Logistics Limited(ALLCARGO)
+Data Download for script: Allcargo Logistics Limited(ALLCARGO) Completed.
+Starting Data Download for script: Allsec Technologies Limited(ALLSEC)
+Data Download for script: Allsec Technologies Limited(ALLSEC) Completed.
+Starting Data Download for script: Almondz Global Securities Limited(ALMONDZ)
+Data Download for script: Almondz Global Securities Limited(ALMONDZ) Completed.
+Starting Data Download for script: Alok Industries Limited(ALOKTEXT)
+Data Download for script: Alok Industries Limited(ALOKTEXT) Completed.
+Starting Data Download for script: Alpa Laboratories Limited(ALPA)
+Data Download for script: Alpa Laboratories Limited(ALPA) Completed.
+Starting Data Download for script: Alphageo (India) Limited(ALPHAGEO)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Alphageo (India) Limited(ALPHAGEO) Completed.
+Starting Data Download for script: Alps Industries Limited(ALPSINDUS)
+Data Download for script: Alps Industries Limited(ALPSINDUS) Completed.
+Starting Data Download for script: Amara Raja Batteries Limited(AMARAJABAT)
+Data Download for script: Amara Raja Batteries Limited(AMARAJABAT) Completed.
+Starting Data Download for script: Ambika Cotton Mills Limited(AMBIKCO)
+Data Download for script: Ambika Cotton Mills Limited(AMBIKCO) Completed.
+Starting Data Download for script: Ambuja Cements Limited(AMBUJACEM)
+Data Download for script: Ambuja Cements Limited(AMBUJACEM) Completed.
+Starting Data Download for script: AMD Industries Limited(AMDIND)
+Data Download for script: AMD Industries Limited(AMDIND) Completed.
+Starting Data Download for script: Amrutanjan Health Care Limited(AMRUTANJAN)
+Data Download for script: Amrutanjan Health Care Limited(AMRUTANJAN) Completed.
+Starting Data Download for script: Amtek Auto Limited(AMTEKAUTO)
+Data Download for script: Amtek Auto Limited(AMTEKAUTO) Completed.
+Starting Data Download for script: Advance Metering Technology Limited(AMTL)
+Data Download for script: Advance Metering Technology Limited(AMTL) Completed.
+Starting Data Download for script: The Anandam Rubber Company Limited(ANANDAMRUB)
+Data Download for script: The Anandam Rubber Company Limited(ANANDAMRUB) Completed.
+Starting Data Download for script: Anant Raj Limited(ANANTRAJ)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Anant Raj Limited(ANANTRAJ) Completed.
+Starting Data Download for script: Andhra Bank(ANDHRABANK)
+Data Download for script: Andhra Bank(ANDHRABANK) Completed.
+Starting Data Download for script: Andhra Cements Limited(ANDHRACEMT)
+Data Download for script: Andhra Cements Limited(ANDHRACEMT) Completed.
+Starting Data Download for script: The Andhra Sugars Limited(ANDHRSUGAR)
+Data Download for script: The Andhra Sugars Limited(ANDHRSUGAR) Completed.
+Starting Data Download for script: ANG Industries Limited(ANGIND)
+Data Download for script: ANG Industries Limited(ANGIND) Completed.
+Starting Data Download for script: Anik Industries Limited(ANIKINDS)
+Data Download for script: Anik Industries Limited(ANIKINDS) Completed.
+Starting Data Download for script: Ankit Metal & Power Limited(ANKITMETAL)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Ankit Metal & Power Limited(ANKITMETAL) Completed.
+Starting Data Download for script: Ansal Properties & Infrastructure Limited(ANSALAPI)
+Data Download for script: Ansal Properties & Infrastructure Limited(ANSALAPI) Completed.
+Starting Data Download for script: Ansal Housing and Construction Limited(ANSALHSG)
+Data Download for script: Ansal Housing and Construction Limited(ANSALHSG) Completed.
+Starting Data Download for script: Antarctica Limited(ANTGRAPHIC)
+Data Download for script: Antarctica Limited(ANTGRAPHIC) Completed.
+Starting Data Download for script: Apar Industries Limited(APARINDS)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Apar Industries Limited(APARINDS) Completed.
+Starting Data Download for script: Apcotex Industries Limited(APCOTEXIND)
+Data Download for script: Apcotex Industries Limited(APCOTEXIND) Completed.
+Starting Data Download for script: APL Apollo Tubes Limited(APLAPOLLO)
+Data Download for script: APL Apollo Tubes Limited(APLAPOLLO) Completed.
+Starting Data Download for script: Alembic Pharmaceuticals Limited(APLLTD)
+Data Download for script: Alembic Pharmaceuticals Limited(APLLTD) Completed.
+Starting Data Download for script: Apollo Hospitals Enterprise Limited(APOLLOHOSP)
+Data Download for script: Apollo Hospitals Enterprise Limited(APOLLOHOSP) Completed.
+Starting Data Download for script: Apollo Tyres Limited(APOLLOTYRE)
+Data Download for script: Apollo Tyres Limited(APOLLOTYRE) Completed.
+Starting Data Download for script: Apollo Sindoori Hotels Limited(APOLSINHOT)
+Data Download for script: Apollo Sindoori Hotels Limited(APOLSINHOT) Completed.
+Starting Data Download for script: Aptech Limited(APTECHT)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Aptech Limited(APTECHT) Completed.
+Starting Data Download for script: Archidply Industries Limited(ARCHIDPLY)
+Data Download for script: Archidply Industries Limited(ARCHIDPLY) Completed.
+Starting Data Download for script: Archies Limited(ARCHIES)
+Data Download for script: Archies Limited(ARCHIES) Completed.
+Starting Data Download for script: Arcotech Limited(ARCOTECH)
+Data Download for script: Arcotech Limited(ARCOTECH) Completed.
+Starting Data Download for script: Aries Agro Limited(ARIES)
+Data Download for script: Aries Agro Limited(ARIES) Completed.
+Starting Data Download for script: Arihant Foundations & Housing Limited(ARIHANT)
+Data Download for script: Arihant Foundations & Housing Limited(ARIHANT) Completed.
+Starting Data Download for script: Arman Financial Services Limited(ARMANFIN)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Arman Financial Services Limited(ARMANFIN) Completed.
+Starting Data Download for script: Aro Granite Industries Limited(AROGRANITE)
+Data Download for script: Aro Granite Industries Limited(AROGRANITE) Completed.
+Starting Data Download for script: Arrow Greentech Limited(ARROWGREEN)
+Data Download for script: Arrow Greentech Limited(ARROWGREEN) Completed.
+Starting Data Download for script: Arrow Textiles Limited(ARROWTEX)
+Data Download for script: Arrow Textiles Limited(ARROWTEX) Completed.
+Starting Data Download for script: Arshiya Limited(ARSHIYA)
+Data Download for script: Arshiya Limited(ARSHIYA) Completed.
+Starting Data Download for script: ARSS Infrastructure Projects Limited(ARSSINFRA)
+Data Download for script: ARSS Infrastructure Projects Limited(ARSSINFRA) Completed.
+Starting Data Download for script: Arvind Limited(ARVIND)
+Data Download for script: Arvind Limited(ARVIND) Completed.
+Starting Data Download for script: Arvind SmartSpaces Limited(ARVSMART)
+Data Download for script: Arvind SmartSpaces Limited(ARVSMART) Completed.
+Starting Data Download for script: Asahi India Glass Limited(ASAHIINDIA)
+Data Download for script: Asahi India Glass Limited(ASAHIINDIA) Completed.
+Starting Data Download for script: Asahi Songwon Colors Limited(ASAHISONG)
+Data Download for script: Asahi Songwon Colors Limited(ASAHISONG) Completed.
+Starting Data Download for script: Automotive Stampings and Assemblies Limited(ASAL)
+Data Download for script: Automotive Stampings and Assemblies Limited(ASAL) Completed.
+Starting Data Download for script: Ashapura Minechem Limited(ASHAPURMIN)
+Data Download for script: Ashapura Minechem Limited(ASHAPURMIN) Completed.
+Starting Data Download for script: Ashiana Housing Limited(ASHIANA)
+Data Download for script: Ashiana Housing Limited(ASHIANA) Completed.
+Starting Data Download for script: Ashima Limited(ASHIMASYN)
+Data Download for script: Ashima Limited(ASHIMASYN) Completed.
+Starting Data Download for script: Ashoka Buildcon Limited(ASHOKA)
+Data Download for script: Ashoka Buildcon Limited(ASHOKA) Completed.
+Starting Data Download for script: Ashok Leyland Limited(ASHOKLEY)
+Data Download for script: Ashok Leyland Limited(ASHOKLEY) Completed.
+Starting Data Download for script: Asian Hotels (North) Limited(ASIANHOTNR)
+Data Download for script: Asian Hotels (North) Limited(ASIANHOTNR) Completed.
+Starting Data Download for script: Asian Paints Limited(ASIANPAINT)
+Data Download for script: Asian Paints Limited(ASIANPAINT) Completed.
+Starting Data Download for script: Asian Granito India Limited(ASIANTILES)
+Data Download for script: Asian Granito India Limited(ASIANTILES) Completed.
+Starting Data Download for script: Amit Spinning Industries Limited(ASIL)
+Data Download for script: Amit Spinning Industries Limited(ASIL) Completed.
+Starting Data Download for script: Assam Company India Limited(ASSAMCO)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Assam Company India Limited(ASSAMCO) Completed.
+Starting Data Download for script: Astec LifeSciences Limited(ASTEC)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Astec LifeSciences Limited(ASTEC) Completed.
+Starting Data Download for script: Astral Poly Technik Limited(ASTRAL)
+Data Download for script: Astral Poly Technik Limited(ASTRAL) Completed.
+Starting Data Download for script: AstraZeneca Pharma India Limited(ASTRAZEN)
+Data Download for script: AstraZeneca Pharma India Limited(ASTRAZEN) Completed.
+Starting Data Download for script: Agro Tech Foods Limited(ATFL)
+Data Download for script: Agro Tech Foods Limited(ATFL) Completed.
+Starting Data Download for script: Atlanta  Limited(ATLANTA)
+Data Download for script: Atlanta  Limited(ATLANTA) Completed.
+Starting Data Download for script: Atlas Cycles (Haryana) Limited(ATLASCYCLE)
+Data Download for script: Atlas Cycles (Haryana) Limited(ATLASCYCLE) Completed.
+Starting Data Download for script: ATN International Limited(ATNINTER)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: ATN International Limited(ATNINTER) Completed.
+Starting Data Download for script: Atul Limited(ATUL)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Atul Limited(ATUL) Completed.
+Starting Data Download for script: Atul Auto Limited(ATULAUTO)
+Data Download for script: Atul Auto Limited(ATULAUTO) Completed.
+Starting Data Download for script: Aurionpro Solutions Limited(AURIONPRO)
+Data Download for script: Aurionpro Solutions Limited(AURIONPRO) Completed.
+Starting Data Download for script: Aurobindo Pharma Limited(AUROPHARMA)
+Data Download for script: Aurobindo Pharma Limited(AUROPHARMA) Completed.
+Starting Data Download for script: Ausom Enterprise Limited(AUSOMENT)
+Data Download for script: Ausom Enterprise Limited(AUSOMENT) Completed.
+Starting Data Download for script: Austral Coke & Projects Limited(AUSTRAL)
+Data Download for script: Austral Coke & Projects Limited(AUSTRAL) Completed.
+Starting Data Download for script: Automotive Axles Limited(AUTOAXLES)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Automotive Axles Limited(AUTOAXLES) Completed.
+Starting Data Download for script: Autoline Industries Limited(AUTOIND)
+Data Download for script: Autoline Industries Limited(AUTOIND) Completed.
+Starting Data Download for script: Autolite (India) Limited(AUTOLITIND)
+Data Download for script: Autolite (India) Limited(AUTOLITIND) Completed.
+Starting Data Download for script: Avanti Feeds Limited(AVANTIFEED)
+Data Download for script: Avanti Feeds Limited(AVANTIFEED) Completed.
+Starting Data Download for script: AVT Natural Products Limited(AVTNPL)
+Data Download for script: AVT Natural Products Limited(AVTNPL) Completed.
+Starting Data Download for script: Axis Bank Limited(AXISBANK)
+Data Download for script: Axis Bank Limited(AXISBANK) Completed.
+Starting Data Download for script: AXISCADES Engineering Technologies Limited(AXISCADES)
+Data Download for script: AXISCADES Engineering Technologies Limited(AXISCADES) Completed.
+Starting Data Download for script: AYM Syntex Limited(AYMSYNTEX)
+Data Download for script: AYM Syntex Limited(AYMSYNTEX) Completed.
+Starting Data Download for script: Bafna Pharmaceuticals Limited(BAFNAPHARM)
+Data Download for script: Bafna Pharmaceuticals Limited(BAFNAPHARM) Completed.
+Starting Data Download for script: B.A.G Films and Media Limited(BAGFILMS)
+Data Download for script: B.A.G Films and Media Limited(BAGFILMS) Completed.
+Starting Data Download for script: Bajaj Auto Limited(BAJAJ_AUTO)
+Data Download for script: Bajaj Auto Limited(BAJAJ_AUTO) Completed.
+Starting Data Download for script: Bajaj Corp Limited(BAJAJCORP)
+Data Download for script: Bajaj Corp Limited(BAJAJCORP) Completed.
+Starting Data Download for script: Bajaj Electricals Limited(BAJAJELEC)
+Data Download for script: Bajaj Electricals Limited(BAJAJELEC) Completed.
+Starting Data Download for script: Bajaj Finserv Limited(BAJAJFINSV)
+Data Download for script: Bajaj Finserv Limited(BAJAJFINSV) Completed.
+Starting Data Download for script: Bajaj Hindusthan Sugar Limited(BAJAJHIND)
+Data Download for script: Bajaj Hindusthan Sugar Limited(BAJAJHIND) Completed.
+Starting Data Download for script: Bajaj Holdings & Investment Limited(BAJAJHLDNG)
+Data Download for script: Bajaj Holdings & Investment Limited(BAJAJHLDNG) Completed.
+Starting Data Download for script: Bajaj Finance Limited(BAJFINANCE)
+Data Download for script: Bajaj Finance Limited(BAJFINANCE) Completed.
+Starting Data Download for script: Balaji Telefilms Limited(BALAJITELE)
+Data Download for script: Balaji Telefilms Limited(BALAJITELE) Completed.
+Starting Data Download for script: Balaji Amines Limited(BALAMINES)
+Data Download for script: Balaji Amines Limited(BALAMINES) Completed.
+Starting Data Download for script: Balkrishna Paper Mills Limited(BALKRISHNA)
+Data Download for script: Balkrishna Paper Mills Limited(BALKRISHNA) Completed.
+Starting Data Download for script: Balkrishna Industries Limited(BALKRISIND)
+Data Download for script: Balkrishna Industries Limited(BALKRISIND) Completed.
+Starting Data Download for script: Ballarpur Industries Limited(BALLARPUR)
+Data Download for script: Ballarpur Industries Limited(BALLARPUR) Completed.
+Starting Data Download for script: Balmer Lawrie & Company Limited(BALMLAWRIE)
+Data Download for script: Balmer Lawrie & Company Limited(BALMLAWRIE) Completed.
+Starting Data Download for script: Bal Pharma Limited(BALPHARMA)
+Data Download for script: Bal Pharma Limited(BALPHARMA) Completed.
+Starting Data Download for script: Balrampur Chini Mills Limited(BALRAMCHIN)
+Data Download for script: Balrampur Chini Mills Limited(BALRAMCHIN) Completed.
+Starting Data Download for script: Banaras Beads Limited(BANARBEADS)
+Data Download for script: Banaras Beads Limited(BANARBEADS) Completed.
+Starting Data Download for script: Bannari Amman Sugars Limited(BANARISUG)
+Data Download for script: Bannari Amman Sugars Limited(BANARISUG) Completed.
+Starting Data Download for script: Banco Products (I) Limited(BANCOINDIA)
+Data Download for script: Banco Products (I) Limited(BANCOINDIA) Completed.
+Starting Data Download for script: Bang Overseas Limited(BANG)
+Data Download for script: Bang Overseas Limited(BANG) Completed.
+Starting Data Download for script: Bank of Baroda(BANKBARODA)
+Data Download for script: Bank of Baroda(BANKBARODA) Completed.
+Starting Data Download for script: Bank of India(BANKINDIA)
+Data Download for script: Bank of India(BANKINDIA) Completed.
+Starting Data Download for script: Banswara Syntex Limited(BANSWRAS)
+Data Download for script: Banswara Syntex Limited(BANSWRAS) Completed.
+Starting Data Download for script: Bartronics India Limited(BARTRONICS)
+Data Download for script: Bartronics India Limited(BARTRONICS) Completed.
+Starting Data Download for script: BASF India Limited(BASF)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: BASF India Limited(BASF) Completed.
+Starting Data Download for script: Bannari Amman Spinning Mills Limited(BASML)
+Data Download for script: Bannari Amman Spinning Mills Limited(BASML) Completed.
+Starting Data Download for script: Bata India Limited(BATAINDIA)
+Data Download for script: Bata India Limited(BATAINDIA) Completed.
+Starting Data Download for script: Bayer Cropscience Limited(BAYERCROP)
+Data Download for script: Bayer Cropscience Limited(BAYERCROP) Completed.
+Starting Data Download for script: Bharat Bijlee Limited(BBL)
+Data Download for script: Bharat Bijlee Limited(BBL) Completed.
+Starting Data Download for script: Bombay Burmah Trading Corporation Limited(BBTC)
+Data Download for script: Bombay Burmah Trading Corporation Limited(BBTC) Completed.
+Starting Data Download for script: Beardsell Limited(BEARDSELL)
+Data Download for script: Beardsell Limited(BEARDSELL) Completed.
+Starting Data Download for script: Bedmutha Industries Limited(BEDMUTHA)
+Data Download for script: Bedmutha Industries Limited(BEDMUTHA) Completed.
+Starting Data Download for script: Bharat Electronics Limited(BEL)
+Data Download for script: Bharat Electronics Limited(BEL) Completed.
+Starting Data Download for script: BEML Limited(BEML)
+Data Download for script: BEML Limited(BEML) Completed.
+Starting Data Download for script: Bhansali Engineering Polymers Limited(BEPL)
+Data Download for script: Bhansali Engineering Polymers Limited(BEPL) Completed.
+Starting Data Download for script: Berger Paints (I) Limited(BERGEPAINT)
+Data Download for script: Berger Paints (I) Limited(BERGEPAINT) Completed.
+Starting Data Download for script: BF Investment Limited(BFINVEST)
+Data Download for script: BF Investment Limited(BFINVEST) Completed.
+Starting Data Download for script: BF Utilities Limited(BFUTILITIE)
+Data Download for script: BF Utilities Limited(BFUTILITIE) Completed.
+Starting Data Download for script: Bharatiya Global Infomedia Limited(BGLOBAL)
+Data Download for script: Bharatiya Global Infomedia Limited(BGLOBAL) Completed.
+Starting Data Download for script: BGR Energy Systems Limited(BGRENERGY)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: BGR Energy Systems Limited(BGRENERGY) Completed.
+Starting Data Download for script: Bhageria Industries Limited(BHAGERIA)
+Data Download for script: Bhageria Industries Limited(BHAGERIA) Completed.
+Starting Data Download for script: Bhagyanagar India Limited(BHAGYNAGAR)
+Data Download for script: Bhagyanagar India Limited(BHAGYNAGAR) Completed.
+Starting Data Download for script: Bhandari Hosiery Exports Limited(BHANDARI)
+Data Download for script: Bhandari Hosiery Exports Limited(BHANDARI) Completed.
+Starting Data Download for script: Bharat Financial Inclusion Limited(BHARATFIN)
+Data Download for script: Bharat Financial Inclusion Limited(BHARATFIN) Completed.
+Starting Data Download for script: Bharat Forge Limited(BHARATFORG)
+Data Download for script: Bharat Forge Limited(BHARATFORG) Completed.
+Starting Data Download for script: Bharat Gears Limited(BHARATGEAR)
+Data Download for script: Bharat Gears Limited(BHARATGEAR) Completed.
+Starting Data Download for script: Bharati Defence and Infrastructure Limited(BHARATIDIL)
+Data Download for script: Bharati Defence and Infrastructure Limited(BHARATIDIL) Completed.
+Starting Data Download for script: Bharat Rasayan Limited(BHARATRAS)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Bharat Rasayan Limited(BHARATRAS) Completed.
+Starting Data Download for script: Bharat Wire Ropes Limited(BHARATWIRE)
+Data Download for script: Bharat Wire Ropes Limited(BHARATWIRE) Completed.
+Starting Data Download for script: Bharti Airtel Limited(BHARTIARTL)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Bharti Airtel Limited(BHARTIARTL) Completed.
+Starting Data Download for script: Bharat Heavy Electricals Limited(BHEL)
+Data Download for script: Bharat Heavy Electricals Limited(BHEL) Completed.
+Starting Data Download for script: Bhushan Steel Limited(BHUSANSTL)
+Data Download for script: Bhushan Steel Limited(BHUSANSTL) Completed.
+Starting Data Download for script: Bigbloc Construction Limited(BIGBLOC)
+Data Download for script: Bigbloc Construction Limited(BIGBLOC) Completed.
+Starting Data Download for script: Bhartiya International Limited(BIL)
+Data Download for script: Bhartiya International Limited(BIL) Completed.
+Starting Data Download for script: Bil Energy Systems Limited(BILENERGY)
+Data Download for script: Bil Energy Systems Limited(BILENERGY) Completed.
+Starting Data Download for script: Bilpower  Limited(BILPOWER)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Bilpower  Limited(BILPOWER) Completed.
+Starting Data Download for script: Binani Industries Limited(BINANIIND)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Binani Industries Limited(BINANIIND) Completed.
+Starting Data Download for script: Oswal Chemicals & Fertilizers Limited(BINDALAGRO)
+Data Download for script: Oswal Chemicals & Fertilizers Limited(BINDALAGRO) Completed.
+Starting Data Download for script: Biocon Limited(BIOCON)
+Data Download for script: Biocon Limited(BIOCON) Completed.
+Starting Data Download for script: Birla Cable Limited(BIRLACABLE)
+Data Download for script: Birla Cable Limited(BIRLACABLE) Completed.
+Starting Data Download for script: Birla Corporation Limited(BIRLACORPN)
+Data Download for script: Birla Corporation Limited(BIRLACORPN) Completed.
+Starting Data Download for script: Birla Cotsyn (India) Limited(BIRLACOT)
+Data Download for script: Birla Cotsyn (India) Limited(BIRLACOT) Completed.
+Starting Data Download for script: Aditya Birla Money Limited(BIRLAMONEY)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Aditya Birla Money Limited(BIRLAMONEY) Completed.
+Starting Data Download for script: BLB Limited(BLBLIMITED)
+Data Download for script: BLB Limited(BLBLIMITED) Completed.
+Starting Data Download for script: Bliss GVS Pharma Limited(BLISSGVS)
+Data Download for script: Bliss GVS Pharma Limited(BLISSGVS) Completed.
+Starting Data Download for script: B. L. Kashyap and Sons Limited(BLKASHYAP)
+Data Download for script: B. L. Kashyap and Sons Limited(BLKASHYAP) Completed.
+Starting Data Download for script: BLS International Services Limited(BLS)
+Data Download for script: BLS International Services Limited(BLS) Completed.
+Starting Data Download for script: Blue Blends (I) Limited(BLUEBLENDS)
+Data Download for script: Blue Blends (I) Limited(BLUEBLENDS) Completed.
+Starting Data Download for script: Blue Chip India Limited(BLUECHIP)
+Data Download for script: Blue Chip India Limited(BLUECHIP) Completed.
+Starting Data Download for script: Blue Coast Hotels Limited(BLUECOAST)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Blue Coast Hotels Limited(BLUECOAST) Completed.
+Starting Data Download for script: Blue Dart Express Limited(BLUEDART)
+Data Download for script: Blue Dart Express Limited(BLUEDART) Completed.
+Starting Data Download for script: Blue Star Limited(BLUESTARCO)
+Data Download for script: Blue Star Limited(BLUESTARCO) Completed.
+Starting Data Download for script: Bodal Chemicals Limited(BODALCHEM)
+Data Download for script: Bodal Chemicals Limited(BODALCHEM) Completed.
+Starting Data Download for script: Bombay Dyeing & Mfg Company Limited(BOMDYEING)
+Data Download for script: Bombay Dyeing & Mfg Company Limited(BOMDYEING) Completed.
+Starting Data Download for script: Bosch Limited(BOSCHLTD)
+Data Download for script: Bosch Limited(BOSCHLTD) Completed.
+Starting Data Download for script: Bharat Petroleum Corporation Limited(BPCL)
+Data Download for script: Bharat Petroleum Corporation Limited(BPCL) Completed.
+Starting Data Download for script: BPL Limited(BPL)
+Data Download for script: BPL Limited(BPL) Completed.
+Starting Data Download for script: Bombay Rayon Fashions Limited(BRFL)
+Data Download for script: Bombay Rayon Fashions Limited(BRFL) Completed.
+Starting Data Download for script: Brigade Enterprises Limited(BRIGADE)
+Data Download for script: Brigade Enterprises Limited(BRIGADE) Completed.
+Starting Data Download for script: Britannia Industries Limited(BRITANNIA)
+Data Download for script: Britannia Industries Limited(BRITANNIA) Completed.
+Starting Data Download for script: Brooks Laboratories Limited(BROOKS)
+Data Download for script: Brooks Laboratories Limited(BROOKS) Completed.
+Starting Data Download for script: BSEL Infrastructure Realty Limited(BSELINFRA)
+Data Download for script: BSEL Infrastructure Realty Limited(BSELINFRA) Completed.
+Starting Data Download for script: BSL Limited(BSL)
+Data Download for script: BSL Limited(BSL) Completed.
+Starting Data Download for script: BS LIMITED(BSLIMITED)
+Data Download for script: BS LIMITED(BSLIMITED) Completed.
+Starting Data Download for script: Burnpur Cement Limited(BURNPUR)
+Data Download for script: Burnpur Cement Limited(BURNPUR) Completed.
+Starting Data Download for script: Butterfly Gandhimathi Appliances Limited(BUTTERFLY)
+Data Download for script: Butterfly Gandhimathi Appliances Limited(BUTTERFLY) Completed.
+Starting Data Download for script: Barak Valley Cements Limited(BVCL)
+Data Download for script: Barak Valley Cements Limited(BVCL) Completed.
+Starting Data Download for script: The Byke Hospitality Ltd(BYKE)
+Data Download for script: The Byke Hospitality Ltd(BYKE) Completed.
+Starting Data Download for script: Cadila Healthcare Limited(CADILAHC)
+Data Download for script: Cadila Healthcare Limited(CADILAHC) Completed.
+Starting Data Download for script: Cairn India Limited(CAIRN)
+Data Download for script: Cairn India Limited(CAIRN) Completed.
+Starting Data Download for script: California Software Company Limited(CALSOFT)
+Data Download for script: California Software Company Limited(CALSOFT) Completed.
+Starting Data Download for script: California Software Company Limited(CALSOFT)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: California Software Company Limited(CALSOFT) Completed.
+Starting Data Download for script: Camlin Fine Sciences Limited(CAMLINFINE)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Camlin Fine Sciences Limited(CAMLINFINE) Completed.
+Starting Data Download for script: Canara Bank(CANBK)
+Data Download for script: Canara Bank(CANBK) Completed.
+Starting Data Download for script: C & C Constructions Limited(CANDC)
+Data Download for script: C & C Constructions Limited(CANDC) Completed.
+Starting Data Download for script: Can Fin Homes Limited(CANFINHOME)
+Data Download for script: Can Fin Homes Limited(CANFINHOME) Completed.
+Starting Data Download for script: Cantabil Retail India Limited(CANTABIL)
+Data Download for script: Cantabil Retail India Limited(CANTABIL) Completed.
+Starting Data Download for script: Capital First Limited(CAPF)
+Data Download for script: Capital First Limited(CAPF) Completed.
+Starting Data Download for script: Caplin Point Laboratories Limited(CAPLIPOINT)
+Data Download for script: Caplin Point Laboratories Limited(CAPLIPOINT) Completed.
+Starting Data Download for script: Capital Trust Limited(CAPTRUST)
+Data Download for script: Capital Trust Limited(CAPTRUST) Completed.
+Starting Data Download for script: Carborundum Universal Limited(CARBORUNIV)
+Data Download for script: Carborundum Universal Limited(CARBORUNIV) Completed.
+Starting Data Download for script: Career Point Limited(CAREERP)
+Data Download for script: Career Point Limited(CAREERP) Completed.
+Starting Data Download for script: Credit Analysis And Research Limited(CARERATING)
+Data Download for script: Credit Analysis And Research Limited(CARERATING) Completed.
+Starting Data Download for script: Castex Technologies Limited(CASTEXTECH)
+Data Download for script: Castex Technologies Limited(CASTEXTECH) Completed.
+Starting Data Download for script: Castrol India Limited(CASTROLIND)
+Data Download for script: Castrol India Limited(CASTROLIND) Completed.
+Starting Data Download for script: Consolidated Construction Consortium Limited(CCCL)
+Data Download for script: Consolidated Construction Consortium Limited(CCCL) Completed.
+Starting Data Download for script: Country Club Hospitality & Holidays Limited(CCHHL)
+Data Download for script: Country Club Hospitality & Holidays Limited(CCHHL) Completed.
+Starting Data Download for script: CCL Products (India) Limited(CCL)
+Data Download for script: CCL Products (India) Limited(CCL) Completed.
+Starting Data Download for script: CEAT Limited(CEATLTD)
+Data Download for script: CEAT Limited(CEATLTD) Completed.
+Starting Data Download for script: Commercial Engineers & Body Builders Co Limited(CEBBCO)
+Data Download for script: Commercial Engineers & Body Builders Co Limited(CEBBCO) Completed.
+Starting Data Download for script: Celebrity Fashions Limited(CELEBRITY)
+Data Download for script: Celebrity Fashions Limited(CELEBRITY) Completed.
+Starting Data Download for script: Celestial Biolabs Limited(CELESTIAL)
+Data Download for script: Celestial Biolabs Limited(CELESTIAL) Completed.
+Starting Data Download for script: Century Enka Limited(CENTENKA)
+Data Download for script: Century Enka Limited(CENTENKA) Completed.
+Starting Data Download for script: Century Extrusions Limited(CENTEXT)
+Data Download for script: Century Extrusions Limited(CENTEXT) Completed.
+Starting Data Download for script: Central Bank of India(CENTRALBK)
+Data Download for script: Central Bank of India(CENTRALBK) Completed.
+Starting Data Download for script: Centum Electronics Limited(CENTUM)
+Data Download for script: Centum Electronics Limited(CENTUM) Completed.
+Starting Data Download for script: Century Plyboards (India) Limited(CENTURYPLY)
+Data Download for script: Century Plyboards (India) Limited(CENTURYPLY) Completed.
+Starting Data Download for script: Century Textiles & Industries Limited(CENTURYTEX)
+Data Download for script: Century Textiles & Industries Limited(CENTURYTEX) Completed.
+Starting Data Download for script: Cera Sanitaryware Limited(CERA)
+Data Download for script: Cera Sanitaryware Limited(CERA) Completed.
+Starting Data Download for script: Cerebra Integrated Technologies Limited(CEREBRAINT)
+Data Download for script: Cerebra Integrated Technologies Limited(CEREBRAINT) Completed.
+Starting Data Download for script: CESC Limited(CESC)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: CESC Limited(CESC) Completed.
+Starting Data Download for script: Capri Global Capital Limited(CGCL)
+Data Download for script: Capri Global Capital Limited(CGCL) Completed.
+Starting Data Download for script: Chambal Fertilizers & Chemicals Limited(CHAMBLFERT)
+Data Download for script: Chambal Fertilizers & Chemicals Limited(CHAMBLFERT) Completed.
+Starting Data Download for script: Chemfab Alkalis Limited(CHEMFALKAL)
+Data Download for script: Chemfab Alkalis Limited(CHEMFALKAL) Completed.
+Starting Data Download for script: Chennai Petroleum Corporation Limited(CHENNPETRO)
+Data Download for script: Chennai Petroleum Corporation Limited(CHENNPETRO) Completed.
+Starting Data Download for script: Cholamandalam Investment and Finance Company Limited(CHOLAFIN)
+Data Download for script: Cholamandalam Investment and Finance Company Limited(CHOLAFIN) Completed.
+Starting Data Download for script: Chromatic India Limited(CHROMATIC)
+Data Download for script: Chromatic India Limited(CHROMATIC) Completed.
+Starting Data Download for script: Cigniti Technologies Limited(CIGNITITEC)
+Data Download for script: Cigniti Technologies Limited(CIGNITITEC) Completed.
+Starting Data Download for script: Cimmco Limited(CIMMCO)
+Data Download for script: Cimmco Limited(CIMMCO) Completed.
+Starting Data Download for script: Cineline India Limited(CINELINE)
+Data Download for script: Cineline India Limited(CINELINE) Completed.
+Starting Data Download for script: Cinevista Limited(CINEVISTA)
+Data Download for script: Cinevista Limited(CINEVISTA) Completed.
+Starting Data Download for script: Cipla Limited(CIPLA)
+Data Download for script: Cipla Limited(CIPLA) Completed.
+Starting Data Download for script: Clariant Chemicals (India) Limited(CLNINDIA)
+Data Download for script: Clariant Chemicals (India) Limited(CLNINDIA) Completed.
+Starting Data Download for script: CMI Limited(CMICABLES)
+Data Download for script: CMI Limited(CMICABLES) Completed.
+Starting Data Download for script: CIL Nova Petrochemicals Limited(CNOVAPETRO)
+Data Download for script: CIL Nova Petrochemicals Limited(CNOVAPETRO) Completed.
+Starting Data Download for script: Coal India Limited(COALINDIA)
+Data Download for script: Coal India Limited(COALINDIA) Completed.
+Starting Data Download for script: Coffee Day Enterprises Limited(COFFEEDAY)
+Data Download for script: Coffee Day Enterprises Limited(COFFEEDAY) Completed.
+Starting Data Download for script: Colgate Palmolive (India) Limited(COLPAL)
+Data Download for script: Colgate Palmolive (India) Limited(COLPAL) Completed.
+Starting Data Download for script: Compuage Infocom Limited(COMPINFO)
+Data Download for script: Compuage Infocom Limited(COMPINFO) Completed.
+Starting Data Download for script: Compucom Software Limited(COMPUSOFT)
+Data Download for script: Compucom Software Limited(COMPUSOFT) Completed.
+Starting Data Download for script: Container Corporation of India Limited(CONCOR)
+Data Download for script: Container Corporation of India Limited(CONCOR) Completed.
+Starting Data Download for script: Consolidated Finvest & Holdings Limited(CONSOFINVT)
+Data Download for script: Consolidated Finvest & Holdings Limited(CONSOFINVT) Completed.
+Starting Data Download for script: Control Print Limited(CONTROLPR)
+Data Download for script: Control Print Limited(CONTROLPR) Completed.
+Starting Data Download for script: Cords Cable Industries Limited(CORDSCABLE)
+Data Download for script: Cords Cable Industries Limited(CORDSCABLE) Completed.
+Starting Data Download for script: Coromandel International Limited(COROMANDEL)
+Data Download for script: Coromandel International Limited(COROMANDEL) Completed.
+Starting Data Download for script: Corporation Bank(CORPBANK)
+Data Download for script: Corporation Bank(CORPBANK) Completed.
+Starting Data Download for script: Cosmo Films Limited(COSMOFILMS)
+Data Download for script: Cosmo Films Limited(COSMOFILMS) Completed.
+Starting Data Download for script: Country Condos Limited(COUNCODOS)
+Data Download for script: Country Condos Limited(COUNCODOS) Completed.
+Starting Data Download for script: Cox & Kings Limited(COXKINGS)
+Data Download for script: Cox & Kings Limited(COXKINGS) Completed.
+Starting Data Download for script: Creative Eye Limited(CREATIVEYE)
+Data Download for script: Creative Eye Limited(CREATIVEYE) Completed.
+Starting Data Download for script: Crest Ventures Limited(CREST)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Crest Ventures Limited(CREST) Completed.
+Starting Data Download for script: CRISIL Limited(CRISIL)
+Data Download for script: CRISIL Limited(CRISIL) Completed.
+Starting Data Download for script: Crompton  Greaves Limited(CROMPGREAV)
+Data Download for script: Crompton  Greaves Limited(CROMPGREAV) Completed.
+Starting Data Download for script: Crompton Greaves Consumer Electricals Limited(CROMPTON)
+Data Download for script: Crompton Greaves Consumer Electricals Limited(CROMPTON) Completed.
+Starting Data Download for script: Cambridge Technology Enterprises Limited(CTE)
+Data Download for script: Cambridge Technology Enterprises Limited(CTE) Completed.
+Starting Data Download for script: City Union Bank Limited(CUB)
+Data Download for script: City Union Bank Limited(CUB) Completed.
+Starting Data Download for script: Cubex Tubings Limited(CUBEXTUB)
+Data Download for script: Cubex Tubings Limited(CUBEXTUB) Completed.
+Starting Data Download for script: Cummins India Limited(CUMMINSIND)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Cummins India Limited(CUMMINSIND) Completed.
+Starting Data Download for script: Cupid Limited(CUPID)
+Data Download for script: Cupid Limited(CUPID) Completed.
+Starting Data Download for script: Cura Technologies Limited(CURATECH)
+Data Download for script: Cura Technologies Limited(CURATECH) Completed.
+Starting Data Download for script: Cyber Media (India) Limited(CYBERMEDIA)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Cyber Media (India) Limited(CYBERMEDIA) Completed.
+Starting Data Download for script: Cybertech Systems And Software Limited(CYBERTECH)
+Data Download for script: Cybertech Systems And Software Limited(CYBERTECH) Completed.
+Starting Data Download for script: Cyient Limited(CYIENT)
+Data Download for script: Cyient Limited(CYIENT) Completed.
+Starting Data Download for script: LT Foods Limited(DAAWAT)
+Data Download for script: LT Foods Limited(DAAWAT) Completed.
+Starting Data Download for script: Dabur India Limited(DABUR)
+Data Download for script: Dabur India Limited(DABUR) Completed.
+Starting Data Download for script: Dalmia Bharat Limited(DALMIABHA)
+Data Download for script: Dalmia Bharat Limited(DALMIABHA) Completed.
+Starting Data Download for script: Dalmia Bharat Sugar and Industries Limited(DALMIASUG)
+Data Download for script: Dalmia Bharat Sugar and Industries Limited(DALMIASUG) Completed.
+Starting Data Download for script: Damodar Industries Limited(DAMODARIND)
+Data Download for script: Damodar Industries Limited(DAMODARIND) Completed.
+Starting Data Download for script: Datamatics Global Services Limited(DATAMATICS)
+Data Download for script: Datamatics Global Services Limited(DATAMATICS) Completed.
+Starting Data Download for script: D.B.Corp Limited(DBCORP)
+Data Download for script: D.B.Corp Limited(DBCORP) Completed.
+Starting Data Download for script: Dilip Buildcon Limited(DBL)
+Data Download for script: Dilip Buildcon Limited(DBL) Completed.
+Starting Data Download for script: D B Realty Limited(DBREALTY)
+Data Download for script: D B Realty Limited(DBREALTY) Completed.
+Starting Data Download for script: DB (International) Stock Brokers Limited(DBSTOCKBRO)
+Data Download for script: DB (International) Stock Brokers Limited(DBSTOCKBRO) Completed.
+Starting Data Download for script: DCB BANK LIMITED(DCBBANK)
+Data Download for script: DCB BANK LIMITED(DCBBANK) Completed.
+Starting Data Download for script: DCM  Limited(DCM)
+Data Download for script: DCM  Limited(DCM) Completed.
+Starting Data Download for script: DCM Shriram Limited(DCMSHRIRAM)
+Data Download for script: DCM Shriram Limited(DCMSHRIRAM) Completed.
+Starting Data Download for script: DCW Limited(DCW)
+Data Download for script: DCW Limited(DCW) Completed.
+Starting Data Download for script: Deccan Cements Limited(DECCANCE)
+Data Download for script: Deccan Cements Limited(DECCANCE) Completed.
+Starting Data Download for script: Deepak Fertilizers and Petrochemicals Corporation Limited(DEEPAKFERT)
+Data Download for script: Deepak Fertilizers and Petrochemicals Corporation Limited(DEEPAKFERT) Completed.
+Starting Data Download for script: Deepak Nitrite Limited(DEEPAKNTR)
+Data Download for script: Deepak Nitrite Limited(DEEPAKNTR) Completed.
+Starting Data Download for script: Deep Industries Limited(DEEPIND)
+Data Download for script: Deep Industries Limited(DEEPIND) Completed.
+Starting Data Download for script: Delta Corp Limited(DELTACORP)
+Data Download for script: Delta Corp Limited(DELTACORP) Completed.
+Starting Data Download for script: Delta Magnets Limited(DELTAMAGNT)
+Data Download for script: Delta Magnets Limited(DELTAMAGNT) Completed.
+Starting Data Download for script: Den Networks Limited(DEN)
+Data Download for script: Den Networks Limited(DEN) Completed.
+Starting Data Download for script: Dena Bank(DENABANK)
+Data Download for script: Dena Bank(DENABANK) Completed.
+Starting Data Download for script: De Nora India Limited(DENORA)
+Data Download for script: De Nora India Limited(DENORA) Completed.
+Starting Data Download for script: DFM Foods Limited(DFMFOODS)
+Data Download for script: DFM Foods Limited(DFMFOODS) Completed.
+Starting Data Download for script: Dhampur Sugar Mills Limited(DHAMPURSUG)
+Data Download for script: Dhampur Sugar Mills Limited(DHAMPURSUG) Completed.
+Starting Data Download for script: Dhanlaxmi Bank Limited(DHANBANK)
+Data Download for script: Dhanlaxmi Bank Limited(DHANBANK) Completed.
+Starting Data Download for script: Dhanuka Agritech Limited(DHANUKA)
+Data Download for script: Dhanuka Agritech Limited(DHANUKA) Completed.
+Starting Data Download for script: Dharani Sugars & Chemicals Limited(DHARSUGAR)
+Data Download for script: Dharani Sugars & Chemicals Limited(DHARSUGAR) Completed.
+Starting Data Download for script: Dewan Housing Finance Corporation Limited(DHFL)
+Data Download for script: Dewan Housing Finance Corporation Limited(DHFL) Completed.
+Starting Data Download for script: Dhunseri Investments Limited(DHUNINV)
+Data Download for script: Dhunseri Investments Limited(DHUNINV) Completed.
+Starting Data Download for script: Diamond Power Infra Ltd(DIAPOWER)
+Data Download for script: Diamond Power Infra Ltd(DIAPOWER) Completed.
+Starting Data Download for script: DIC India Limited(DICIND)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: DIC India Limited(DICIND) Completed.
+Starting Data Download for script: Digjam Limited(DIGJAMLTD)
+Data Download for script: Digjam Limited(DIGJAMLTD) Completed.
+Starting Data Download for script: Dishman Pharmaceuticals and Chemicals Limited(DISHMAN)
+Data Download for script: Dishman Pharmaceuticals and Chemicals Limited(DISHMAN) Completed.
+Starting Data Download for script: Dish TV India Limited(DISHTV)
+Data Download for script: Dish TV India Limited(DISHTV) Completed.
+Starting Data Download for script: Divis Laboratories Limited(DIVISLAB)
+Data Download for script: Divis Laboratories Limited(DIVISLAB) Completed.
+Starting Data Download for script: DLF Limited(DLF)
+Data Download for script: DLF Limited(DLF) Completed.
+Starting Data Download for script: D-Link (India) Limited(DLINKINDIA)
+Data Download for script: D-Link (India) Limited(DLINKINDIA) Completed.
+Starting Data Download for script: Dolphin Offshore Enterprises (India) Limited(DOLPHINOFF)
+Data Download for script: Dolphin Offshore Enterprises (India) Limited(DOLPHINOFF) Completed.
+Starting Data Download for script: Donear Industries Limited(DONEAR)
+Data Download for script: Donear Industries Limited(DONEAR) Completed.
+Starting Data Download for script: Dhunseri Petrochem Limited(DPL)
+Data Download for script: Dhunseri Petrochem Limited(DPL) Completed.
+Starting Data Download for script: DPSC Limited(DPSCLTD)
+Data Download for script: DPSC Limited(DPSCLTD) Completed.
+Starting Data Download for script: DQ Entertainment (International) Limited(DQE)
+Data Download for script: DQ Entertainment (International) Limited(DQE) Completed.
+Starting Data Download for script: Dredging Corporation of India Limited(DREDGECORP)
+Data Download for script: Dredging Corporation of India Limited(DREDGECORP) Completed.
+Starting Data Download for script: Dr. Reddys Laboratories Limited(DRREDDY)
+Data Download for script: Dr. Reddys Laboratories Limited(DRREDDY) Completed.
+Starting Data Download for script: DS Kulkarni Developers Limited(DSKULKARNI)
+Data Download for script: DS Kulkarni Developers Limited(DSKULKARNI) Completed.
+Starting Data Download for script: Dynacons Systems & Solutions Limited(DSSL)
+Data Download for script: Dynacons Systems & Solutions Limited(DSSL) Completed.
+Starting Data Download for script: Dhunseri Tea & Industries Limited(DTIL)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Dhunseri Tea & Industries Limited(DTIL) Completed.
+Starting Data Download for script: Ducon Infratechnologies Limited(DUCON)
+Data Download for script: Ducon Infratechnologies Limited(DUCON) Completed.
+Starting Data Download for script: Dwarikesh Sugar Industries Limited(DWARKESH)
+Data Download for script: Dwarikesh Sugar Industries Limited(DWARKESH) Completed.
+Starting Data Download for script: Dynamatic Technologies Limited(DYNAMATECH)
+Data Download for script: Dynamatic Technologies Limited(DYNAMATECH) Completed.
+Starting Data Download for script: Eastern Silk Industries Limited(EASTSILK)
+Data Download for script: Eastern Silk Industries Limited(EASTSILK) Completed.
+Starting Data Download for script: Easun Reyrolle Limited(EASUNREYRL)
+Data Download for script: Easun Reyrolle Limited(EASUNREYRL) Completed.
+Starting Data Download for script: ECE Industries Limited(ECEIND)
+Data Download for script: ECE Industries Limited(ECEIND) Completed.
+Starting Data Download for script: eClerx Services Limited(ECLERX)
+Data Download for script: eClerx Services Limited(ECLERX) Completed.
+Starting Data Download for script: Edelweiss Financial Services Limited(EDELWEISS)
+Data Download for script: Edelweiss Financial Services Limited(EDELWEISS) Completed.
+Starting Data Download for script: Empee Distilleries Limited(EDL)
+Data Download for script: Empee Distilleries Limited(EDL) Completed.
+Starting Data Download for script: Educomp Solutions Limited(EDUCOMP)
+Data Download for script: Educomp Solutions Limited(EDUCOMP) Completed.
+Starting Data Download for script: Eicher Motors Limited(EICHERMOT)
+Data Download for script: Eicher Motors Limited(EICHERMOT) Completed.
+Starting Data Download for script: EID Parry India Limited(EIDPARRY)
+Data Download for script: EID Parry India Limited(EIDPARRY) Completed.
+Starting Data Download for script: EIH Associated Hotels Limited(EIHAHOTELS)
+Data Download for script: EIH Associated Hotels Limited(EIHAHOTELS) Completed.
+Starting Data Download for script: EIH Limited(EIHOTEL)
+Data Download for script: EIH Limited(EIHOTEL) Completed.
+Starting Data Download for script: Eimco Elecon (India) Limited(EIMCOELECO)
+Data Download for script: Eimco Elecon (India) Limited(EIMCOELECO) Completed.
+Starting Data Download for script: Everest Kanto Cylinder Limited(EKC)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Everest Kanto Cylinder Limited(EKC) Completed.
+Starting Data Download for script: E-Land Apparel Limited(ELAND)
+Data Download for script: E-Land Apparel Limited(ELAND) Completed.
+Starting Data Download for script: Elecon Engineering Company Limited(ELECON)
+Data Download for script: Elecon Engineering Company Limited(ELECON) Completed.
+Starting Data Download for script: Electrosteel Castings Limited(ELECTCAST)
+Data Download for script: Electrosteel Castings Limited(ELECTCAST) Completed.
+Starting Data Download for script: Electrotherm (India) Limited(ELECTHERM)
+Data Download for script: Electrotherm (India) Limited(ELECTHERM) Completed.
+Starting Data Download for script: Elgi Equipments Limited(ELGIEQUIP)
+Data Download for script: Elgi Equipments Limited(ELGIEQUIP) Completed.
+Starting Data Download for script: Elgi Rubber Company Limited(ELGIRUBCO)
+Data Download for script: Elgi Rubber Company Limited(ELGIRUBCO) Completed.
+Starting Data Download for script: Emami Infrastructure Limited(EMAMIINFRA)
+Data Download for script: Emami Infrastructure Limited(EMAMIINFRA) Completed.
+Starting Data Download for script: Emami Limited(EMAMILTD)
+Data Download for script: Emami Limited(EMAMILTD) Completed.
+Starting Data Download for script: Emco Limited(EMCO)
+Data Download for script: Emco Limited(EMCO) Completed.
+Starting Data Download for script: Emkay Global Financial Services Limited(EMKAY)
+Data Download for script: Emkay Global Financial Services Limited(EMKAY) Completed.
+Starting Data Download for script: Emmbi Industries Limited(EMMBI)
+Data Download for script: Emmbi Industries Limited(EMMBI) Completed.
+Starting Data Download for script: Endurance Technologies Limited(ENDURANCE)
+Data Download for script: Endurance Technologies Limited(ENDURANCE) Completed.
+Starting Data Download for script: Energy Development Company Limited(ENERGYDEV)
+Data Download for script: Energy Development Company Limited(ENERGYDEV) Completed.
+Starting Data Download for script: Engineers India Limited(ENGINERSIN)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Engineers India Limited(ENGINERSIN) Completed.
+Starting Data Download for script: Entertainment Network (India) Limited(ENIL)
+Data Download for script: Entertainment Network (India) Limited(ENIL) Completed.
+Starting Data Download for script: Eon Electric Limited(EON)
+Data Download for script: Eon Electric Limited(EON) Completed.
+Starting Data Download for script: Equitas Holdings Limited(EQUITAS)
+Data Download for script: Equitas Holdings Limited(EQUITAS) Completed.
+Starting Data Download for script: Equitas Holdings Limited(EQUITAS)
+Data Download for script: Equitas Holdings Limited(EQUITAS) Completed.
+Starting Data Download for script: Eros International Media Limited(EROSMEDIA)
+Data Download for script: Eros International Media Limited(EROSMEDIA) Completed.
+Starting Data Download for script: Esab India Limited(ESABINDIA)
+Data Download for script: Esab India Limited(ESABINDIA) Completed.
+Starting Data Download for script: Escorts Limited(ESCORTS)
+Data Download for script: Escorts Limited(ESCORTS) Completed.
+Starting Data Download for script: Electrosteel Steels Limited(ESL)
+Data Download for script: Electrosteel Steels Limited(ESL) Completed.
+Starting Data Download for script: Essar Shipping Limited(ESSARSHPNG)
+Data Download for script: Essar Shipping Limited(ESSARSHPNG) Completed.
+Starting Data Download for script: Ess Dee Aluminium Limited(ESSDEE)
+Data Download for script: Ess Dee Aluminium Limited(ESSDEE) Completed.
+Starting Data Download for script: Essel Propack Limited(ESSELPACK)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Essel Propack Limited(ESSELPACK) Completed.
+Starting Data Download for script: Ester Industries Limited(ESTER)
+Data Download for script: Ester Industries Limited(ESTER) Completed.
+Starting Data Download for script: Euro Ceramics Limited(EUROCERA)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Euro Ceramics Limited(EUROCERA) Completed.
+Starting Data Download for script: Euro Multivision Limited(EUROMULTI)
+Data Download for script: Euro Multivision Limited(EUROMULTI) Completed.
+Starting Data Download for script: Eurotex Industries and Exports Limited(EUROTEXIND)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Eurotex Industries and Exports Limited(EUROTEXIND) Completed.
+Starting Data Download for script: Eveready Industries India Limited(EVEREADY)
+Data Download for script: Eveready Industries India Limited(EVEREADY) Completed.
+Starting Data Download for script: Everest Industries Limited(EVERESTIND)
+Data Download for script: Everest Industries Limited(EVERESTIND) Completed.
+Starting Data Download for script: Excel Realty N Infra Limited(EXCEL)
+Data Download for script: Excel Realty N Infra Limited(EXCEL) Completed.
+Starting Data Download for script: Excel Crop Care Limited(EXCELCROP)
+Data Download for script: Excel Crop Care Limited(EXCELCROP) Completed.
+Starting Data Download for script: Excel Industries Limited(EXCELINDUS)
+Data Download for script: Excel Industries Limited(EXCELINDUS) Completed.
+Starting Data Download for script: Exide Industries Limited(EXIDEIND)
+Data Download for script: Exide Industries Limited(EXIDEIND) Completed.
+Starting Data Download for script: Fertilizers and Chemicals Travancore Limited(FACT)
+Data Download for script: Fertilizers and Chemicals Travancore Limited(FACT) Completed.
+Starting Data Download for script: FAG Bearings India Limited(FAGBEARING)
+Data Download for script: FAG Bearings India Limited(FAGBEARING) Completed.
+Starting Data Download for script: Fairchem Speciality Limited(FAIRCHEM)
+Data Download for script: Fairchem Speciality Limited(FAIRCHEM) Completed.
+Starting Data Download for script: Farmax India Limited(FARMAXIND)
+Data Download for script: Farmax India Limited(FARMAXIND) Completed.
+Starting Data Download for script: Fineotex Chemical Limited(FCL)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Fineotex Chemical Limited(FCL) Completed.
+Starting Data Download for script: FUTURE CONSUMER LIMITED(FCONSUMER)
+Data Download for script: FUTURE CONSUMER LIMITED(FCONSUMER) Completed.
+Starting Data Download for script: FCS Software Solutions Limited(FCSSOFT)
+Data Download for script: FCS Software Solutions Limited(FCSSOFT) Completed.
+Starting Data Download for script: FDC Limited(FDC)
+Data Download for script: FDC Limited(FDC) Completed.
+Starting Data Download for script: Fedders Lloyd Corporation Limited(FEDDERLOYD)
+Data Download for script: Fedders Lloyd Corporation Limited(FEDDERLOYD) Completed.
+Starting Data Download for script: The Federal Bank  Limited(FEDERALBNK)
+Data Download for script: The Federal Bank  Limited(FEDERALBNK) Completed.
+Starting Data Download for script: FUTURE ENTERPRISES LIMITED(FEL)
+Data Download for script: FUTURE ENTERPRISES LIMITED(FEL) Completed.
+Starting Data Download for script: Future Enterprises Limited(FELDVR)
+Data Download for script: Future Enterprises Limited(FELDVR) Completed.
+Starting Data Download for script: Fiem Industries Limited(FIEMIND)
+Data Download for script: Fiem Industries Limited(FIEMIND) Completed.
+Starting Data Download for script: Filatex India Limited(FILATEX)
+Data Download for script: Filatex India Limited(FILATEX) Completed.
+Starting Data Download for script: Finolex Cables Limited(FINCABLES)
+Data Download for script: Finolex Cables Limited(FINCABLES) Completed.
+Starting Data Download for script: Finolex Industries Limited(FINPIPE)
+Data Download for script: Finolex Industries Limited(FINPIPE) Completed.
+Starting Data Download for script: First Winner Industries Limited(FIRSTWIN)
+Data Download for script: First Winner Industries Limited(FIRSTWIN) Completed.
+Starting Data Download for script: Flexituff International Limited(FLEXITUFF)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Flexituff International Limited(FLEXITUFF) Completed.
+Starting Data Download for script: Future Lifestyle Fashions Limited(FLFL)
+Data Download for script: Future Lifestyle Fashions Limited(FLFL) Completed.
+Starting Data Download for script: Federal-Mogul Goetze (India) Limited.(FMGOETZE)
+Data Download for script: Federal-Mogul Goetze (India) Limited.(FMGOETZE) Completed.
+Starting Data Download for script: Future Market Networks Limited(FMNL)
+Data Download for script: Future Market Networks Limited(FMNL) Completed.
+Starting Data Download for script: Fortis Healthcare Limited(FORTIS)
+Data Download for script: Fortis Healthcare Limited(FORTIS) Completed.
+Starting Data Download for script: Foseco India Limited(FOSECOIND)
+Data Download for script: Foseco India Limited(FOSECOIND) Completed.
+Starting Data Download for script: Future Retail Limited(FRETAIL)
+Data Download for script: Future Retail Limited(FRETAIL) Completed.
+Starting Data Download for script: Firstsource Solutions Limited(FSL)
+Data Download for script: Firstsource Solutions Limited(FSL) Completed.
+Starting Data Download for script: Gabriel India Limited(GABRIEL)
+Data Download for script: Gabriel India Limited(GABRIEL) Completed.
+Starting Data Download for script: Gujarat Ambuja Exports Limited(GAEL)
+Data Download for script: Gujarat Ambuja Exports Limited(GAEL) Completed.
+Starting Data Download for script: GAIL (India) Limited(GAIL)
+Data Download for script: GAIL (India) Limited(GAIL) Completed.
+Starting Data Download for script: Gyscoal Alloys Limited(GAL)
+Data Download for script: Gyscoal Alloys Limited(GAL) Completed.
+Starting Data Download for script: Gallantt Metal Limited(GALLANTT)
+Data Download for script: Gallantt Metal Limited(GALLANTT) Completed.
+Starting Data Download for script: Gallantt Ispat Limited(GALLISPAT)
+Data Download for script: Gallantt Ispat Limited(GALLISPAT) Completed.
+Starting Data Download for script: Gammon Infrastructure Projects Limited(GAMMNINFRA)
+Data Download for script: Gammon Infrastructure Projects Limited(GAMMNINFRA) Completed.
+Starting Data Download for script: Gammon India Limited(GAMMONIND)
+Data Download for script: Gammon India Limited(GAMMONIND) Completed.
+Starting Data Download for script: Gandhi Special Tubes Limited(GANDHITUBE)
+Data Download for script: Gandhi Special Tubes Limited(GANDHITUBE) Completed.
+Starting Data Download for script: Ganesha Ecosphere Limited(GANECOS)
+Data Download for script: Ganesha Ecosphere Limited(GANECOS) Completed.
+Starting Data Download for script: Ganesh Housing Corporation Limited(GANESHHOUC)
+Data Download for script: Ganesh Housing Corporation Limited(GANESHHOUC) Completed.
+Starting Data Download for script: Gangotri Textiles Limited(GANGOTRI)
+Data Download for script: Gangotri Textiles Limited(GANGOTRI) Completed.
+Starting Data Download for script: Garden Silk Mills Limited(GARDENSILK)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Garden Silk Mills Limited(GARDENSILK) Completed.
+Starting Data Download for script: Garware  Wall Ropes Limited(GARWALLROP)
+Data Download for script: Garware  Wall Ropes Limited(GARWALLROP) Completed.
+Starting Data Download for script: GATI Limited(GATI)
+Data Download for script: GATI Limited(GATI) Completed.
+Starting Data Download for script: Gayatri Projects Limited(GAYAPROJ)
+Data Download for script: Gayatri Projects Limited(GAYAPROJ) Completed.
+Starting Data Download for script: Gateway Distriparks Limited(GDL)
+Data Download for script: Gateway Distriparks Limited(GDL) Completed.
+Starting Data Download for script: GeeCee Ventures Limited(GEECEE)
+Data Download for script: GeeCee Ventures Limited(GEECEE) Completed.
+Starting Data Download for script: Gemini Communication Limited(GEMINI)
+Data Download for script: Gemini Communication Limited(GEMINI) Completed.
+Starting Data Download for script: Genesys International Corporation Limited(GENESYS)
+Data Download for script: Genesys International Corporation Limited(GENESYS) Completed.
+Starting Data Download for script: Genus Paper & Boards Limited(GENUSPAPER)
+Data Download for script: Genus Paper & Boards Limited(GENUSPAPER) Completed.
+Starting Data Download for script: Genus Power Infrastructures Limited(GENUSPOWER)
+Data Download for script: Genus Power Infrastructures Limited(GENUSPOWER) Completed.
+Starting Data Download for script: Geojit BNP Paribas Financial Services Limited(GEOJITBNPP)
+Data Download for script: Geojit BNP Paribas Financial Services Limited(GEOJITBNPP) Completed.
+Starting Data Download for script: Geometric Limited(GEOMETRIC)
+Data Download for script: Geometric Limited(GEOMETRIC) Completed.
+Starting Data Download for script: GE Power India Limited(GEPIL)
+Data Download for script: GE Power India Limited(GEPIL) Completed.
+Starting Data Download for script: The Great Eastern Shipping Company Limited(GESHIP)
+Data Download for script: The Great Eastern Shipping Company Limited(GESHIP) Completed.
+Starting Data Download for script: GE T&D India Limited(GETD)
+Data Download for script: GE T&D India Limited(GETD) Completed.
+Starting Data Download for script: GHCL Limited(GHCL)
+Data Download for script: GHCL Limited(GHCL) Completed.
+Starting Data Download for script: GIC Housing Finance Limited(GICHSGFIN)
+Data Download for script: GIC Housing Finance Limited(GICHSGFIN) Completed.
+Starting Data Download for script: Gillanders Arbuthnot & Company Limited(GILLANDERS)
+Data Download for script: Gillanders Arbuthnot & Company Limited(GILLANDERS) Completed.
+Starting Data Download for script: Gillette India Limited(GILLETTE)
+Data Download for script: Gillette India Limited(GILLETTE) Completed.
+Starting Data Download for script: Ginni Filaments Limited(GINNIFILA)
+Data Download for script: Ginni Filaments Limited(GINNIFILA) Completed.
+Starting Data Download for script: Gujarat Industries Power Company Limited(GIPCL)
+Data Download for script: Gujarat Industries Power Company Limited(GIPCL) Completed.
+Starting Data Download for script: GI Engineering Solutions Limited(GISOLUTION)
+Data Download for script: GI Engineering Solutions Limited(GISOLUTION) Completed.
+Starting Data Download for script: Gitanjali Gems Limited(GITANJALI)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Gitanjali Gems Limited(GITANJALI) Completed.
+Starting Data Download for script: GKW Limited(GKWLIMITED)
+Data Download for script: GKW Limited(GKWLIMITED) Completed.
+Starting Data Download for script: GlaxoSmithKline Pharmaceuticals Limited(GLAXO)
+Data Download for script: GlaxoSmithKline Pharmaceuticals Limited(GLAXO) Completed.
+Starting Data Download for script: Glenmark Pharmaceuticals Limited(GLENMARK)
+Data Download for script: Glenmark Pharmaceuticals Limited(GLENMARK) Completed.
+Starting Data Download for script: Gujarat Lease Financing Limited(GLFL)
+Data Download for script: Gujarat Lease Financing Limited(GLFL) Completed.
+Starting Data Download for script: Global Vectra Helicorp Limited(GLOBALVECT)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Global Vectra Helicorp Limited(GLOBALVECT) Completed.
+Starting Data Download for script: Global Offshore Services Limited(GLOBOFFS)
+Data Download for script: Global Offshore Services Limited(GLOBOFFS) Completed.
+Starting Data Download for script: Globus Spirits Limited(GLOBUSSPR)
+Data Download for script: Globus Spirits Limited(GLOBUSSPR) Completed.
+Starting Data Download for script: GM Breweries Limited(GMBREW)
+Data Download for script: GM Breweries Limited(GMBREW) Completed.
+Starting Data Download for script: Gujarat Mineral Development Corporation Limited(GMDCLTD)
+Data Download for script: Gujarat Mineral Development Corporation Limited(GMDCLTD) Completed.
+Starting Data Download for script: GMR Infrastructure Limited(GMRINFRA)
+Data Download for script: GMR Infrastructure Limited(GMRINFRA) Completed.
+Starting Data Download for script: GNA Axles Limited(GNA)
+Data Download for script: GNA Axles Limited(GNA) Completed.
+Starting Data Download for script: Gujarat Narmada Valley Fertilizers and Chemicals Limited(GNFC)
+Data Download for script: Gujarat Narmada Valley Fertilizers and Chemicals Limited(GNFC) Completed.
+Starting Data Download for script: Goa Carbon Limited(GOACARBON)
+Data Download for script: Goa Carbon Limited(GOACARBON) Completed.
+Starting Data Download for script: GOCL Corporation Limited(GOCLCORP)
+Data Download for script: GOCL Corporation Limited(GOCLCORP) Completed.
+Starting Data Download for script: Godfrey Phillips India Limited(GODFRYPHLP)
+Data Download for script: Godfrey Phillips India Limited(GODFRYPHLP) Completed.
+Starting Data Download for script: Godrej Consumer Products Limited(GODREJCP)
+Data Download for script: Godrej Consumer Products Limited(GODREJCP) Completed.
+Starting Data Download for script: Godrej Industries Limited(GODREJIND)
+Data Download for script: Godrej Industries Limited(GODREJIND) Completed.
+Starting Data Download for script: Godrej Properties Limited(GODREJPROP)
+Data Download for script: Godrej Properties Limited(GODREJPROP) Completed.
+Starting Data Download for script: Goenka Diamond and Jewels Limited(GOENKA)
+Data Download for script: Goenka Diamond and Jewels Limited(GOENKA) Completed.
+Starting Data Download for script: Gokaldas Exports Limited(GOKEX)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Gokaldas Exports Limited(GOKEX) Completed.
+Starting Data Download for script: Gokul Refoils and Solvent Limited(GOKUL)
+Data Download for script: Gokul Refoils and Solvent Limited(GOKUL) Completed.
+Starting Data Download for script: Gokul Agro Resources Limited(GOKULAGRO)
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+ERROR: Value of '2' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+Data Download for script: Gokul Agro Resources Limited(GOKULAGRO) Completed.
+Starting Data Download for script: Golden Tobacco Limited(GOLDENTOBC)
+Data Download for script: Golden Tobacco Limited(GOLDENTOBC) Completed.
+Starting Data Download for script: Goldiam International Limited(GOLDIAM)
+Data Download for script: Goldiam International Limited(GOLDIAM) Completed.
+Starting Data Download for script: Goldstone Infratech Limited(GOLDINFRA)
+Data Download for script: Goldstone Infratech Limited(GOLDINFRA) Completed.
+Starting Data Download for script: Goldstone Technologies Limited(GOLDTECH)
+Data Download for script: Goldstone Technologies Limited(GOLDTECH) Completed.
+Starting Data Download for script: Goodluck India Limited(GOODLUCK)
+Data Download for script: Goodluck India Limited(GOODLUCK) Completed.
+Starting Data Download for script: Godawari Power And Ispat limited(GPIL)
+Data Download for script: Godawari Power And Ispat limited(GPIL) Completed.
+Starting Data Download for script: Gujarat Pipavav Port Limited(GPPL)
+Data Download for script: Gujarat Pipavav Port Limited(GPPL) Completed.
+Starting Data Download for script: GPT Infraprojects Limited(GPTINFRA)
+Data Download for script: GPT Infraprojects Limited(GPTINFRA) Completed.
+Starting Data Download for script: Granules India Limited(GRANULES)
+Data Download for script: Granules India Limited(GRANULES) Completed.
+Starting Data Download for script: Graphite India Limited(GRAPHITE)
+Data Download for script: Graphite India Limited(GRAPHITE) Completed.
+Starting Data Download for script: Grasim Industries Limited(GRASIM)
+Data Download for script: Grasim Industries Limited(GRASIM) Completed.
+Starting Data Download for script: Gravita India Limited(GRAVITA)
+Data Download for script: Gravita India Limited(GRAVITA) Completed.
+Starting Data Download for script: Greaves Cotton Limited(GREAVESCOT)
+Data Download for script: Greaves Cotton Limited(GREAVESCOT) Completed.
+Starting Data Download for script: Green Fire Agri Commodities Limited(GREENFIRE)
+Data Download for script: Green Fire Agri Commodities Limited(GREENFIRE) Completed.
+Starting Data Download for script: Greenlam Industries Limited(GREENLAM)
+Data Download for script: Greenlam Industries Limited(GREENLAM) Completed.
+Starting Data Download for script: Greenply Industries Limited(GREENPLY)
+Data Download for script: Greenply Industries Limited(GREENPLY) Completed.
+Starting Data Download for script: Orient Green Power Company Limited(GREENPOWER)
+Data Download for script: Orient Green Power Company Limited(GREENPOWER) Completed.
+Starting Data Download for script: Grindwell Norton Limited(GRINDWELL)
+Data Download for script: Grindwell Norton Limited(GRINDWELL) Completed.
+Starting Data Download for script: The Grob Tea Company Limited(GROBTEA)
+Data Download for script: The Grob Tea Company Limited(GROBTEA) Completed.
+Starting Data Download for script: GRP Limited(GRPLTD)
+Data Download for script: GRP Limited(GRPLTD) Completed.
+Starting Data Download for script: Gruh Finance Limited(GRUH)
+Data Download for script: Gruh Finance Limited(GRUH) Completed.
+Starting Data Download for script: Gujarat Sidhee Cement Limited(GSCLCEMENT)
+Data Download for script: Gujarat Sidhee Cement Limited(GSCLCEMENT) Completed.
+Starting Data Download for script: Gujarat State Fertilizers & Chemicals Limited(GSFC)
+Data Download for script: Gujarat State Fertilizers & Chemicals Limited(GSFC) Completed.
+Starting Data Download for script: Gujarat State Fertilizers & Chemicals Limited(GSFC)
+Data Download for script: Gujarat State Fertilizers & Chemicals Limited(GSFC) Completed.
+Starting Data Download for script: GlaxoSmithKline Consumer Healthcare Limited(GSKCONS)
+Data Download for script: GlaxoSmithKline Consumer Healthcare Limited(GSKCONS) Completed.
+Starting Data Download for script: Gujarat State Petronet Limited(GSPL)
+Data Download for script: Gujarat State Petronet Limited(GSPL) Completed.
+Starting Data Download for script: GSS Infotech Limited(GSS)
+Data Download for script: GSS Infotech Limited(GSS) Completed.
+Starting Data Download for script: GTL Limited(GTL)
